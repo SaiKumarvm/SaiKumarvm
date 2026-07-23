@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saikumarvm/SaiKumarvm/main/assets/banner.png" alt="Sai Kumar V.M. Banner" width="100%">
-</p>
-
 <h1 align="center">Sai Kumar V.M.</h1>
 
 <h3 align="center">
